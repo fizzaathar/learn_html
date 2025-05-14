@@ -1,0 +1,37 @@
+HTML means Hypertext Markup Language
+
+hypertext maens :  Text that contains links to other texts or web pages.
+Markup Language: A language used to structure content (like headings, paragraphs, images, tables, etc.).
+
+HTML uses elements to describe the structure of your Webpage.
+
+HTML Elements
+An HTML element is a complete piece of HTML code that defines structure or content on a web page.
+
+👉 Basic Structure:
+html
+
+
+<tagname>Content goes here</tagname>
+
+
+✅ Example:
+
+
+<p>This is a paragraph.</p>
+
+
+In this example:
+
+<p> is the start tag
+
+</p> is the end tag
+
+This is a paragraph. is the content
+
+The whole thing together is an element.
+
+
+View source:
+           Q:How to view the source of this page?
+           A:If you right click on the page,you will see an option that allows you to see the source code behind the web page.

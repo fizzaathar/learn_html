@@ -1,0 +1,5 @@
+1)HTML pages are documents that contain text.
+2)HTML uses tags, which acts like containers and tell you about the information which lies between their opening and closing tags.
+3)HTML elements tell the browser how to display the content.
+4)Browser donot display the HTML tags, but use them to render the content of the page.
+5)Tags usually come in pair(<opening tag> and </closing tag>)

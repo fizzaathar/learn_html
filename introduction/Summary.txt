@@ -2,4 +2,28 @@
 2)HTML uses tags, which acts like containers and tell you about the information which lies between their opening and closing tags.
 3)HTML elements tell the browser how to display the content.
 4)Browser donot display the HTML tags, but use them to render the content of the page.
-5)Tags usually come in pair(<opening tag> and </closing tag>)
+5)Tags usually come in pair(<opening tag> and </closing tag>).
+6)HTML uses elements to describe the structure of the page(e.g. heading,sub-heading,paragrapgh).
+7)there are two types of markups:
+         i)structural    2)semantic
+8)Structural markup are the elements that you can use to describe both heading and paragraph.
+9)Sementic markup are the elements which provides sementic information such as where emphesis is placed in a sentence,
+  when text is a quote(who said it) or the defination of an acronyms.
+10)HTML provides diffrent types of lists.(ordered list,unordered list,defination list)
+11)Ordered list organize and display the content of the list using number.
+12)Unordered list organize and display the content of the list using bullets.
+13)Defination list are used to define vocabulary.
+14)We can create nested list by creating list within lists.
+15)To create hyperlinks in HTML,we use anchor tag <a> </a>.
+16)The text between the tag is called link text.
+17)There are twobasic choices when it comes to the selection of URLs:
+   i)Absolute URL:used to navigate to another website.
+   2)Relative URL:used to navigate to same website.
+18)Either relative or absolute URLs may be used inside the href attributes.
+19)The <table> element is used to create tables in a webpage.
+20)Tables are created row by row.The <tr>element is used to create each row.
+21)The <td> element is used to create each cell,<th> element is used to create each header cell.
+22)To create long tables,the <thead>,<tbody>,<tfoot> elements may be used to split table.
+23)The <form> element is usually carries the following attributes:
+  1)Action attribute:The <form> element always carries the action attributes. ITs value is the URL of the page that will recieve the information when foem is submitted.
+  2)Method attribute:The form can be sent using one of two methods (Get,Post)

@@ -1,0 +1,24 @@
+                      STRUCTURE MARKUP
+
+
+For heading:  <h1> to <h6> tags are used
+For paragraph: <p> tag is uesd
+For bold : <b>tag is used
+For italic : <i> is used
+For superscript : <sup> is used
+For subscript : <sub> is used
+For line break : <br> is used
+For horizontal rule : <hr> is used
+
+
+                      SEMANTIC MARKUP
+
+
+1) Strong : act like bold : <strong>
+2)Emphesis : act like italic : <em>
+3)Quatation : <blockquote> for paragraph and <q> for short line
+4)Abbreviation : <abbr>
+5)Citation : <cite> is used for refrence of book,research work,movie
+6)Changes to content : for insert <ins> is used and for delete <del> is used
+7)Strickthrough : <s> : act like delete
+
